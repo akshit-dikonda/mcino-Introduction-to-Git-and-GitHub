@@ -52,3 +52,9 @@ All contributors are expected to follow the project's Code of Conduct
 and maintain a respectful and welcoming environment.
 
 Thank you for contributing!
+
+# Contributing
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+We appreciate your interest in contributing to this project. Please follow the guidelines below when submitting contributions.
